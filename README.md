@@ -26,7 +26,7 @@ There are a few notable host directories that will be shared with the Atom conta
 $ make-image.sh
 ```
 
-2. Create a new Atom container. This is a separate step primarily to ease development, but also makes it simple to reset your Atom environment if you mess it up (easy to do when you are fiddling with Jetbrains plugins, or you've mucked up your settings).
+2. Create a new Atom container. This is a separate step primarily to ease development, but also makes it simple to reset your Atom environment if you mess it up (easy to do when you are fiddling with packages/themes, or you've mucked up your settings).
 
 ```bash
 $ create-container.sh

@@ -1,0 +1,18 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  minimap:
+    absoluteMode: true
+    plugins:
+      codeglance: true
+      codeglanceDecorationsZIndex: 0
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
